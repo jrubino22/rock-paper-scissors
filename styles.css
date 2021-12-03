@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+#mainContainer {
+    text-align: center;
+
+}
+
+#opponent {
+    font-size: 25px;
+}
+
+#result {
+    border-color: black;
+    font-size: 40px;
+}
